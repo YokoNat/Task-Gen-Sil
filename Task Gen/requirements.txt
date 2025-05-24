@@ -1,0 +1,3 @@
+pandas
+watchdog
+# ttkbootstrap  # optional, for improved tkinter styling 

@@ -1,0 +1,19 @@
+0.0.1 - Merging works.
+
+0.0.2 - Tasks values are visible in UI
+
+0.0.3 - Multiple products now supported.(100% Safe till here)
+
+0.0.4 - Now when task doesnt randomally get deselected when double clicking or using ctrl+a
+
+0.0.4.5 - Add filters like I wanted, 1 quirk - When I add filters, then I commit the changes, then I press cancel for the filters cancel, it deletes the just added filter. 
+	  I dont think that it changes the file but its just annoying if I add filters first then press cancel accidentally.
+
+0.0.4.9 - Removed the cancel button for filters, but now cancel tasks rolls back properly for everything but the filter, so it wont remove a filter that was just added but not commited
+	  whether or not it was saved to the filters. Dynamically populates extra_filters field.
+
+0.0.5 - Fixed ^^
+
+0.0.5.1 - Extra filters no longer read only, making it so u can copy and paste filters. Doesnt understand group sections
+
+0.0.6 - Working can now paste filters
